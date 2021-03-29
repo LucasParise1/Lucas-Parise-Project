@@ -14,4 +14,4 @@ Movement - A, W, S, D
 Interact - Space Bar
 
 Win the game by solving the 4 puzzles on the room.
-You lose if the game if the timer goes out.
+You lose the game if the timer goes out.
