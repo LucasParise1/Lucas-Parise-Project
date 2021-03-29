@@ -15,3 +15,5 @@ Interact - Space Bar
 
 Win the game by solving the 4 puzzles on the room.
 You lose the game if the timer goes out.
+
+Since I'm a 2D generalist (as I talked to Diego Dias), I made the puzzles in 2D using Unity's HUD system, since It would be my main role in the company, I hope you guys enjoy!
